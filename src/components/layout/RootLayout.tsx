@@ -1,5 +1,5 @@
 import { Outlet, NavLink } from "react-router-dom";
-import { Home, Star ,TrendingUp, Calendar, Film, Dice5 } from "lucide-react";
+import { Home, Star ,TrendingUp, Calendar, Film } from "lucide-react";
 
 export default function RootLayout() {
   

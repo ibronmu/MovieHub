@@ -31,8 +31,8 @@ A responsive movie discovery web app built with React, TypeScript, and Tailwind 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/moviehub.git
-   cd moviehub
+   git clone https://github.com/ibronmu/moviehub.git
+   cd movie-dasboard
 Install dependencies
 
 bash
