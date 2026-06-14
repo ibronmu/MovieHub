@@ -44,7 +44,7 @@ Create a .env file in the root directory
 Add your TMDB API key (get one from TMDB)
 
 env
-VITE_TMDB_API_KEY=your_api_key_here
+VITE_TMDB_API_KEY=VITE_TMDB_API_KEY=6278621acde1f768bf3ad3723e05a1fa
 VITE_TMDB_BASE_URL=https://api.themoviedb.org/3
 Run the development server
 
@@ -87,7 +87,7 @@ Favorites – Click the heart icon on any movie card or the details page. All fa
 Theme – Toggle light/dark mode from the sidebar button.
 
 🔗 Live Demo
-[Add your Vercel/Netlify link here after deployment]
+https://ibmoviehub.netlify.app/
 
 📝 Notes
 The app uses TMDB API – you need a free API key.
